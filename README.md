@@ -19,8 +19,6 @@ To run the model from the terminal, use one of the following commands:
 ```bash
 python capsulenet.py
 or
-```bash
 python capsulenet.py --epochs 50
 or
-```bash
 python capsulenet.py --epochs 50 --num_routing 3
